@@ -12,6 +12,7 @@
 *  系級：科技系二年級
 
 ##  課程筆記區
+*  [week2(0915)練習](https://github.com/xiaoqian0108/PL/blob/main/week2%20practice.ipynb)
 
 ##  作業連結區
 
