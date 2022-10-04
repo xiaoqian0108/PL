@@ -15,5 +15,6 @@
 
 ##  作業連結區
 *  [week2(0915)練習](https://github.com/xiaoqian0108/PL/blob/main/week2%20practice.ipynb)
+*  [作業一](https://github.com/xiaoqian0108/PL/blob/main/HW1/HW1.ipynb)
 
 ##  專題連結區
