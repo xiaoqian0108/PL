@@ -17,7 +17,7 @@
 ### Week5
 *  ####  Python 資料正則化
  > *  [資料正則化文章](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
- >  * [練習](https://regexr.com/)
+ >    * [練習](https://regexr.com/)
 
 ##  作業連結區
 *  [作業一](https://github.com/xiaoqian0108/PL/blob/main/HW1/HW1.ipynb)
