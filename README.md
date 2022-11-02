@@ -18,6 +18,7 @@
 *  ####  Python 資料正則化
  > *  [資料正則化文章](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
  >    * [練習](https://regexr.com/)
+ >    * [課堂實作範例](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96/python_%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96_code.ipynb)
 
 ##  作業連結區
 *  [作業一](https://github.com/xiaoqian0108/PL/blob/main/HW1/HW1.ipynb)
