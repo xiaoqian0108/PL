@@ -30,5 +30,6 @@
 *  [作業二](https://github.com/xiaoqian0108/PL/blob/main/HW2/HW2.ipynb)
 *  [作業三](https://github.com/xiaoqian0108/PL/blob/main/HW3/HW3.ipynb)
 *  作業四[*文字探勘*](https://github.com/xiaoqian0108/PL/blob/main/HW4/HW4.ipynb)、[*Medium*](https://medium.com/@wish9218/文字探勘-想了解iu的第五張正規專輯-lilac-的評價-a7c8b436c0c9)
+*  作業五[*文本共現網路分析*](https://github.com/xiaoqian0108/PL/blob/main/HW5/HW5.ipynb)、[*Medium*](https://medium.com/@wish9218/python文本共現網路分析-咖啡廳熱點圖-1758a6da5b2f)
 
 ##  專題連結區
